@@ -1,0 +1,14 @@
+gensim
+nltk
+numpy
+pandas
+pre-commit
+PyYAML
+scikit-learn
+streamlit
+torch
+tqdm
+tensorboard
+torchsummaryX
+captum
+seaborn
