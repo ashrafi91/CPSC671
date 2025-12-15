@@ -32,7 +32,7 @@ Also, logging through text files is performed on pre-processing, training, and e
 | DCAN         | 0.848&plusmn;0.009 | 0.979&plusmn;0.001 | 0.066&plusmn;0.005 | 0.533&plusmn;0.006 | 0.721&plusmn;0.001 | 0.573&plusmn;0.000 |
 | TransICD     | 0.886&plusmn;0.010 | 0.983&plusmn;0.002 | 0.058&plusmn;0.001 | 0.497&plusmn;0.001 | 0.666&plusmn;0.000 | 0.524&plusmn;0.001 |
 | Fusion       | 0.910&plusmn;0.003 | 0.986&plusmn;0.000 | 0.081&plusmn;0.002 | 0.560&plusmn;0.003 | 0.744&plusmn;0.002 | 0.589&plusmn;0.001 |
-| MMCANet       | 0.889             | 0.985              | 0.057              | 0.504              | 0.709              | -                  |
+| MMACNet      | 0.889              | 0.985              | 0.057              | 0.504              | 0.709              | -                  |
 
 ## Authors
 
