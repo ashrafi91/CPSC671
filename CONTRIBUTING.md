@@ -89,7 +89,7 @@ git commit -m "Added feature"
 
 #### Send a PR
 
-If everything is OK, please send a Pull Request to https://github.com/dalgu90/icd-coding-benchmark
+If everything is OK, please send a Pull Request to https://github.com/ashrafi91/CPSC671
 
 If you are not familiar with creating a Pull Request, here are some guides:
 - http://stackoverflow.com/questions/14680711/how-to-do-a-github-pull-request
