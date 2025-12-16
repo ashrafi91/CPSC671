@@ -1,7 +1,7 @@
-# Contributing to icd-coding-benchmark
+# Contributing to MMACNet
 This project is a community effort, and everyone is welcome to contribute!
 
-If you are interested in contributing to icd-coding-benchmark, there are many ways to help out. Your contributions may fall
+If you are interested in contributing to MMACNet, there are many ways to help out. Your contributions may fall
 into the following categories:
 
 1. It helps us very much if you could
